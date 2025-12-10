@@ -58,7 +58,7 @@ const GameMenu: React.FC = () => {
         <Link to="/" className="mr-4 p-3 bg-white rounded-full shadow-md text-slate-500 hover:bg-slate-100 transition flex-shrink-0">
           <ArrowLeft size={32} />
         </Link>
-        <h1 className="text-4xl md:text-5xl font-black text-slate-800 font-fredoka">Choose a Game</h1>
+        <h1 className="text-4xl md:text-5xl font-black text-slate-800 font-fredoka">Choose a Game from Game Zone</h1>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto w-full pb-10">
